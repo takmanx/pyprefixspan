@@ -6,7 +6,7 @@ pyprefixspan - Python implementation for the algorithm PrefixSpan (Prefix-projec
 
 # INSTALL
 
-    pip install nbupload
+    pip install pyprefixspan
 
 # SYNOPSIS
 
