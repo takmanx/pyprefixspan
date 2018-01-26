@@ -55,4 +55,4 @@ it under the same terms as Python itself.
 
 # AUTHOR
 
-Yukio TAKAHASHI <takman@whitebase.org>
+Yukio TAKAHASHI <takman@tuna.jpn.org>
